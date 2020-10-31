@@ -2,3 +2,7 @@ esta es la historia de Juan Manuel Ruiz
 Tiene 32 años
 
 Han pasado cosas raras
+ 
+ Hay un nuevo usuario trabajando en el proyecto
+
+ TestJuanma
